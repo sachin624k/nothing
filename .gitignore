@@ -1,0 +1,8 @@
+whisperenv/
+uploads/
+node_modules/
+.env
+*.mp4
+*.wav
+*.m4a
+.DS_Store
